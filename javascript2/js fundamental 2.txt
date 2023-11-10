@@ -1,0 +1,99 @@
+Q1)Explain what JavaScript is and its role in web development.
+
+splution:- JavaScript is used to carry out the higher, more advanced functions inherent to more and more of today's web pages,
+to add functionality, validate forms, detect browsers, and much more. 
+
+
+===================================================================================================================================
+
+Q2)Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+javascript:- 1) It’s a high-level language (scripting language) that was introduced by Netscape for running on a web browser’s client-side. It is a very advanced language used in programming that makes any web page more dynamic and interactive.	
+
+2)The content can be manipulated for creating dynamic pages with JavaScript. The page can be dynamic and interactive in real-time.	
+
+3)We use the JS to make pages more interactive for visitors, like in weather forecast websites or cryptocurrency update pages.	
+
+4)It is a very advanced language that uses the JavaScript code and JS engine, something which is available on a majority of web browsers these days on the server-side and client-side.	
+
+5)It is not compatible with every browser, as some of the JS functions may run differently on different browsers.	
+
+
+HTML:- 1)It is the basic building block that makes up the web, that defines the structure and meaning of the content available on the web. In simpler words, it is a standardised markup language used for providing a website with its primary structure.
+
+2)We cannot manipulate the content present on a web page with HTML- it will be static.
+
+
+3)HTML is mainly used to define a web page’s basic structure and layout.
+
+4)It is rendered from a website’s server-side scripting
+
+5)It is compatible with all browsers. It not only runs smoothly on every browser but also works well with any new updates or versions.
+
+
+========================================================================================================================================
+
+Q3)List and describe the five primitive data types in JavaScript.
+
+1) Number: Number data type in javascript can be used to hold decimal values as well as values without decimals.
+
+2) String: The string data type in javascript represents a sequence of characters that are surrounded by single or double quotes.
+
+3) Undefined: The meaning of undefined is ‘value is not assigned’.
+
+4) Boolean: The boolean data type can accept only two values i.e. true and false.
+
+5) Symbol: This data type is used to create objects which will always be unique, these objects can be created using Symbol constructor.
+
+==========================================================================================================================================
+
+
+Q4)What is the purpose of declaring variables in JavaScript, and how do you declare them using the
+'let' keyword?
+
+solution:- 
+Just like in algebra, we use variables in programming languages to hold values. JavaScript includes variables that are used to hold the data value and it can also be changed anytime
+ 
+====================================================================================================================================
+
+
+Q5)Explain the importance of comments in JavaScript and provide examples of single-line and
+multi-line comments.
+
+solution:- JavaScript comments can be used to explain JavaScript code, and to make it more readable. JavaScript comments can also be used to prevent execution, when testing alternative code.
+
+// single line comment 
+
+/*multi line comment */
+
+
+
+================================================================================================================================
+
+
+Q6)Explain the importance of choosing meaningful and descriptive variable names in JavaScript.
+Provide an example where using a clear identifier improves code readability.
+
+solution:- Good variable naming practices contribute to code reusability. When you name variables based on their purpose rather than their specific values, it becomes easier to reuse the code in different contexts. By avoiding hard-coded or context-specific names, you can create more flexible and adaptable code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
